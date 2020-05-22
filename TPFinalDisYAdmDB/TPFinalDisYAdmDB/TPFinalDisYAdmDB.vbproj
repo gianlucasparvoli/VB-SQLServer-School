@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E7A41122-7D2E-4896-AAD5-81B84E62E9D0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>TPFinalDisYAdmDB.My.MyApplication</StartupObject>
+    <RootNamespace>TPFinalDisYAdmDB</RootNamespace>
+    <AssemblyName>TPFinalDisYAdmDB</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>TPFinalDisYAdmDB.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>TPFinalDisYAdmDB.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConsultaGeneral.Designer.vb">
+      <DependentUpon>ConsultaGeneral.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaGeneral.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAltaAlumno.Designer.vb">
+      <DependentUpon>FormAltaAlumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAltaAlumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAltaProfesor.Designer.vb">
+      <DependentUpon>FormAltaProfesor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAltaProfesor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBajaAlumno.Designer.vb">
+      <DependentUpon>FormBajaAlumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBajaAlumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBajaMateria.Designer.vb">
+      <DependentUpon>FormBajaMateria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBajaMateria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBajaProfesores.Designer.vb">
+      <DependentUpon>FormBajaProfesores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBajaProfesores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenuPrincipal.Designer.vb">
+      <DependentUpon>FormMenuPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenuPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ABMAlumno.Designer.vb">
+      <DependentUpon>Form_ABMAlumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ABMAlumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ABMMateria.Designer.vb">
+      <DependentUpon>Form_ABMMateria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ABMMateria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ABMProfesor.Designer.vb">
+      <DependentUpon>Form_ABMProfesor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ABMProfesor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_AltaMaterias.Designer.vb">
+      <DependentUpon>Form_AltaMaterias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_AltaMaterias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ModificacionAlumno.Designer.vb">
+      <DependentUpon>Form_ModificacionAlumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ModificacionAlumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ModificacionMaterias.Designer.vb">
+      <DependentUpon>Form_ModificacionMaterias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ModificacionMaterias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ModificProfesores.Designer.vb">
+      <DependentUpon>Form_ModificProfesores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ModificProfesores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN.Designer.vb">
+      <DependentUpon>LOGIN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LOGIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ConsultaGeneral.resx">
+      <DependentUpon>ConsultaGeneral.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAltaAlumno.resx">
+      <DependentUpon>FormAltaAlumno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAltaProfesor.resx">
+      <DependentUpon>FormAltaProfesor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBajaAlumno.resx">
+      <DependentUpon>FormBajaAlumno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBajaMateria.resx">
+      <DependentUpon>FormBajaMateria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBajaProfesores.resx">
+      <DependentUpon>FormBajaProfesores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenuPrincipal.resx">
+      <DependentUpon>FormMenuPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ABMAlumno.resx">
+      <DependentUpon>Form_ABMAlumno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ABMMateria.resx">
+      <DependentUpon>Form_ABMMateria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ABMProfesor.resx">
+      <DependentUpon>Form_ABMProfesor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_AltaMaterias.resx">
+      <DependentUpon>Form_AltaMaterias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ModificacionAlumno.resx">
+      <DependentUpon>Form_ModificacionAlumno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ModificacionMaterias.resx">
+      <DependentUpon>Form_ModificacionMaterias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ModificProfesores.resx">
+      <DependentUpon>Form_ModificProfesores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGIN.resx">
+      <DependentUpon>LOGIN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

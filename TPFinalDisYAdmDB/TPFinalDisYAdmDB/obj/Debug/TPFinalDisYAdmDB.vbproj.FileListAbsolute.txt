@@ -1,0 +1,93 @@
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmDB\TPFinalDisYAdmDB\bin\Debug\TPFinalDisYAdmDB.exe.config
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmDB\TPFinalDisYAdmDB\bin\Debug\TPFinalDisYAdmDB.exe
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmDB\TPFinalDisYAdmDB\bin\Debug\TPFinalDisYAdmDB.pdb
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmDB\TPFinalDisYAdmDB\bin\Debug\TPFinalDisYAdmDB.xml
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.vbprojAssemblyReference.cache
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_MenuPrincipal.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ABMAlumno.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ABMExamen.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ABMMateria.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ABMProfesor.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Resources.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.vbproj.GenerateResource.cache
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.vbproj.CoreCompileInputs.cache
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.exe
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.xml
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.pdb
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\bin\Debug\TPFinalDisYAdmDB.exe.config
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\bin\Debug\TPFinalDisYAdmDB.exe
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\bin\Debug\TPFinalDisYAdmDB.pdb
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\bin\Debug\TPFinalDisYAdmDB.xml
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.vbprojAssemblyReference.cache
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.FormAltaAlumno.resources
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.FormMenuPrincipal.resources
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ABMAlumno.resources
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ABMMateria.resources
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ABMProfesor.resources
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Resources.resources
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.vbproj.GenerateResource.cache
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.exe
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.xml
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.pdb
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.FormBajaAlumno.resources
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_AltaMaterias.resources
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.FormAltaProfesor.resources
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.FormBajaMateria.resources
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\bin\Debug\TPFinalDisYAdmDB.exe.config
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\bin\Debug\TPFinalDisYAdmDB.exe
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\bin\Debug\TPFinalDisYAdmDB.pdb
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\bin\Debug\TPFinalDisYAdmDB.xml
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.vbprojAssemblyReference.cache
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.FormAltaAlumno.resources
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.FormAltaProfesor.resources
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.FormBajaAlumno.resources
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.FormBajaMateria.resources
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.FormMenuPrincipal.resources
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ABMAlumno.resources
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ABMMateria.resources
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ABMProfesor.resources
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_AltaMaterias.resources
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Resources.resources
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.vbproj.GenerateResource.cache
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.vbproj.CoreCompileInputs.cache
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.exe
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.xml
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.pdb
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.ConsultaGeneral.resources
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.FormBajaProfesores.resources
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.ConsultaGeneral.resources
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.FormBajaProfesores.resources
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ModificacionAlumno.resources
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ModificacionAlumno.resources
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ModificProfesores.resources
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ModificProfesores.resources
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.LOGIN.resources
+D:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ModificacionMaterias.resources
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ModificacionMaterias.resources
+F:\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.LOGIN.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\bin\Debug\TPFinalDisYAdmDB.exe.config
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\bin\Debug\TPFinalDisYAdmDB.exe
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\bin\Debug\TPFinalDisYAdmDB.pdb
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\bin\Debug\TPFinalDisYAdmDB.xml
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.vbprojAssemblyReference.cache
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.ConsultaGeneral.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.FormAltaAlumno.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.FormAltaProfesor.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.FormBajaAlumno.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.FormBajaMateria.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.FormBajaProfesores.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.FormMenuPrincipal.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ABMAlumno.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ABMMateria.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ABMProfesor.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_AltaMaterias.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ModificacionAlumno.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ModificacionMaterias.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Form_ModificProfesores.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.LOGIN.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.Resources.resources
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.vbproj.GenerateResource.cache
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.vbproj.CoreCompileInputs.cache
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.exe
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.xml
+C:\Users\Gianluca Sparvoli\Desktop\TPFinalDisYAdmBD\TPFinalDisYAdmDB\TPFinalDisYAdmDB\obj\Debug\TPFinalDisYAdmDB.pdb
